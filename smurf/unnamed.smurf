@@ -1,0 +1,8 @@
+# main SMURF file of model "unnamed"
+# created with Phobos 0.7 - https://github.com/dfki-ric/phobos
+
+SMURF version: 0.7
+modelname: unnamed
+date: '20190724_16:22'
+files:
+- ../urdf/unnamed.urdf
