@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!-- created with Phobos 0.7 -->
+  <robot name="unnamed">
+
+    <link name="Armature">
+      <visual name="Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.003">
+        <origin xyz="-0.8521 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.044.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock1_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/rock1_high.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock1_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/rock1_low.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock1_low2">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/rock1_low2.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock1_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/rock1_mid.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.020.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_high.001">
+        <origin xyz="-15.7721 -3.63707 6.23099" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.041.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.023.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_low.001">
+        <origin xyz="-15.7721 -3.63707 6.23099" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.039.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_low2">
+        <origin xyz="-14.92233 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.021.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.022.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock2_mid.001">
+        <origin xyz="-15.7721 -3.63707 6.23099" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.040.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.045.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_high.001">
+        <origin xyz="-17.12685 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.038.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.003.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_low.001">
+        <origin xyz="-17.12685 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.035.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_low2">
+        <origin xyz="-9.13653 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.001.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_low2.001">
+        <origin xyz="-17.12685 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.037.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.004.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock3_mid.001">
+        <origin xyz="-17.12685 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.036.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock4_extra_high">
+        <origin xyz="-6.9556 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.026.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock4_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.027.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock4_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.029.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock4_low2">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.024.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock4_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.028.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_extra_high">
+        <origin xyz="-11.49163 -1.13223 5.89371" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.025.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.030.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_high.001">
+        <origin xyz="-0.23873 -1.20993 7.50664" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.033.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.032.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_low.001">
+        <origin xyz="-0.23873 -1.20993 7.50664" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.014.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_low2">
+        <origin xyz="-14.59581 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.002.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_low2.001">
+        <origin xyz="-0.23873 -1.20993 7.50664" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.034.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.031.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_mid.001">
+        <origin xyz="-0.23873 -1.20993 7.50664" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.016.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="rock5_orig">
+        <origin xyz="-11.49163 -1.13223 -3.5605" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.000.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="stonefield_high">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.011.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="stonefield_low">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.018.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="stonefield_mid">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/Group_ShadowedScene_Group_Group_PositionAttitudeTransform_M.017.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_001">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.003.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_002">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.004.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_003">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.005.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_004">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.006.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_005">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.007.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_006">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.008.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_007">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.009.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_008">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.010.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_009">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.011.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_010">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.012.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_011">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.013.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_012">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.014.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_013">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.015.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_014">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.016.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_015">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.017.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_016">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.018.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_017">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.019.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_018">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.020.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_019">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.021.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_020">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.022.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_021">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.023.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_022">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.024.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_023">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.025.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_001">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.118.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_002">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.117.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_003">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.116.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_004">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.027.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_005">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.114.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_006">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.113.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_007">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.119.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_008">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.111.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_009">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.110.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_010">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.109.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_011">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.108.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_012">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.107.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_013">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.106.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_014">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.105.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_015">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.104.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_016">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.103.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_017">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.102.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_018">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.101.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_019">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.100.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_020">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.099.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_021">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.098.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_022">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.097.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+      <visual name="tile_mid_023">
+        <origin xyz="-11.49163 -1.13223 -0.84198" rpy="-1.5708 0 0"/>
+        <geometry>
+          <mesh filename="../meshes/stl/env_mesh.096.stl" scale="1.0 1.0 1.0"/>
+        </geometry>
+      </visual>
+    </link>
+
+  </robot>
